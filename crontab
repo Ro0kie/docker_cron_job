@@ -2,4 +2,7 @@
 # 需要在这个文件的最后留一个空白行
 # 貌似cron最小也就只能每分钟执行一次，可以在script.sh里面写个循环做到按秒执行
 # 或者还有个项目  https://github.com/mcuadros/ofelia, 更加灵活
+# you have to leave a blank line at the bottom of this file
+# if you want to run cron job like every 5 seconds, you can write a loop in script.sh , or 
+# just use  https://github.com/mcuadros/ofelia , it is more flexible
 
